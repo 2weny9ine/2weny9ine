@@ -1,7 +1,4 @@
 - wassup , I’m @2weny9ine
-- 👽 I’m interested in Game Dev
-- 🤓 I’m currently learning Cs basics:(
-- 🎮 I’m looking to collaborate on a game One day
 - 📫 How to reach me y.rouainia29@gmail.com
 
 <!---
